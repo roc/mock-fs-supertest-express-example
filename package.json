@@ -1,0 +1,16 @@
+{
+  "name": "mock-fs-supertest-express-example",
+  "description": "Y U NO POST?",
+  "version": "0.0.0",
+  "engines": {
+    "node": "0.12.x"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.13.3",
+    "mocha": "^2.2.5",
+    "mock-fs": "^3.1.0",
+    "multer": "^1.0.3",
+    "supertest": "^1.0.1"
+  }
+}
